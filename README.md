@@ -1,6 +1,6 @@
 # SwiftUI-Timer
 
-![SwiftUI-Timer Demo](SwiftUI_Timer.gif)
+![SwiftUI-Timer Demo](SwiftUI-Timer/SwiftUI_Timer.gif)
 
 ## Overview
 

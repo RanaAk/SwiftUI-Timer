@@ -29,7 +29,7 @@
     ```
 3. **Build and run the project**:
     - Select the desired simulator or connect your iOS device.
-    - Click the run button or press `Cmd + R`.
+    - Click the run button or press `Cmd + R` .
 
 ## Usage
 
